@@ -1,1 +1,3 @@
 *.zip
+aws-amlf/challenge-lab/data/
+*.ipynb_checkpoints/
